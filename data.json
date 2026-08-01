@@ -1,0 +1,37 @@
+[
+  {
+    "id": "3c00a7a0-7c0a-4e27-bc67-03c180f4a36f",
+    "title": "Groceries",
+    "amount": 45.5,
+    "category": "Food",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "3d8e9475-4925-474a-b2f2-b3f81d6c6a48",
+    "title": "Uber ride",
+    "amount": 12.3,
+    "category": "Transport",
+    "date": "2026-07-03"
+  },
+  {
+    "id": "162df5a9-666e-4339-a5ab-10a9d5d5811b",
+    "title": "Coffee",
+    "amount": 4.75,
+    "category": "Food",
+    "date": "2026-07-05"
+  },
+  {
+    "id": "96ecea71-4108-46de-b8ea-53f774d85e2f",
+    "title": "Movie ticket",
+    "amount": 15.0,
+    "category": "Entertainment",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "88331797-b826-4ba6-a340-5e46c8561ea1",
+    "title": "Electricity bill",
+    "amount": 60.2,
+    "category": "Utilities",
+    "date": "2026-07-12"
+  }
+]
